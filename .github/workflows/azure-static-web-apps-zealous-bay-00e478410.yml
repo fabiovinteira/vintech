@@ -30,7 +30,7 @@ jobs:
           app_location: "/" # App source code path
           api_location: "/api" # Api source code path - optional
           output_location: "" # Built app content directory - optional
-          env: # Add environment variables here
+          env: "" # Add environment variables here
             is_static_export: true
 
           ###### End of Repository/Build Configurations ######
